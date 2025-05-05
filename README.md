@@ -19,4 +19,4 @@ ollama pull llama3.2
 ### Step 3: Install Python Dependencies
 pip install ollama
 
-
+### Use virtual environment for smooth installing
